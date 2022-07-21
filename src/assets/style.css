@@ -33,3 +33,19 @@ td {
 .btn-group {
   color: pink;
 }
+.inputslv{
+  height: 30px;
+  border-radius: 15px;
+  background-color: #640000;
+  color: #ffff;
+}
+.btnSave{
+  border-radius: 8px;
+  margin: -1% 10% 10% 5%;
+  background-color: rgb(75, 0, 0);
+  color: #ffff;
+  padding: 5px;
+}
+input{
+  border: none;
+}

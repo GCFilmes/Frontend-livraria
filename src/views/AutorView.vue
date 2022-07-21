@@ -40,13 +40,13 @@ export default {
       </div>
       <div class="form-input container d-flex">
         <input
-          class="col-10"
+          class="inputslv"
           type="text"
           v-model="novo_autor"
           @keyup.enter="salvar"
           placeholder="Autores"
         />
-        <button class="btn btn_save" @click="salvar">Salvar</button>
+        <button class="btnSave" @click="salvar">Salvar</button>
       </div>
     </div>
     <div class="list-items">
